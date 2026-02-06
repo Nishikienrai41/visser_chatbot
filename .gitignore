@@ -1,13 +1,13 @@
-# Secrets / keys (NOOIT pushen)
+# Secrets (NOOIT pushen)
 streamlit/secrets.toml
 .streamlit/secrets.toml
 secrets.toml
 .env
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
 
-# Virtual env
+# Virtual environment
 .venv/
 venv/
